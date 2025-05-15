@@ -4,12 +4,13 @@
 To draw UML diagram for railway management system
 
 # SRS (Procedure):
+```
 1.PASSENGER
 2.TTR
 3.STATION MANAGER
 4.TICKET COUNTER STAFF
 5.IRCTC ADMIN
-
+```
 # DIAGRAMS:
 # USECASE DIAGRAM
 ![UseCaseDiagram](https://github.com/user-attachments/assets/89777e81-3690-4a44-9134-a57085b547d4)
