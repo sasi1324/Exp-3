@@ -1,9 +1,11 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
+
 To draw UML diagram for railway management system
 
 # SRS (Procedure):
+
 ```
 1.PASSENGER
 2.TTR
@@ -12,6 +14,7 @@ To draw UML diagram for railway management system
 5.IRCTC ADMIN
 ```
 # DIAGRAMS:
+
 # USECASE DIAGRAM
 ![UseCaseDiagram](https://github.com/user-attachments/assets/89777e81-3690-4a44-9134-a57085b547d4)
 
@@ -30,6 +33,6 @@ To draw UML diagram for railway management system
 # COMMUNICATION DIAGRAM
 ![CommunicationDiagram](https://github.com/user-attachments/assets/887abd46-eba9-49ab-be3a-93c57e7fdebb)
 
-
 # RESULT:
+
 Thus UML diagram for library management system was drawn
